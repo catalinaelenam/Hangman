@@ -1,0 +1,13 @@
+body {
+    background-color: pink;
+}
+p {
+    font-size: larger;
+}
+#word {
+    font-size: 20px;
+}
+span {
+    font-size: 20px;
+    font-weight: bold;
+}
